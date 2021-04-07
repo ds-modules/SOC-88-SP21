@@ -47,6 +47,7 @@ The following notebooks are an exploration/brief analysis of the dataset that st
 Exploration of the CalEnviroScreen 3.0 dataset (variety of different environmental markers in different census regions & their respective pollution scores)<br>
 #### More Info/Data
 https://oehha.ca.gov/media/downloads/calenviroscreen/report/ces3report.pdf<br>
+
 [Notebook](Final_Project_EPA.ipynb)
 
 ### Student Achievement in Education
@@ -56,4 +57,5 @@ Exploration of merged dataset (school's financial data, enrollment per grade gro
 https://www.kaggle.com/noriuk/us-education-datasets-unification-project/download#states_all.csv<br>
 https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-people.html<br>
 https://www.census.gov/cps/data/cpstablecreator.html<br>
+
 [Notebook](Final_Project_Education.ipynb)
